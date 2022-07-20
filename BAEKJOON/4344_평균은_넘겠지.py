@@ -9,4 +9,4 @@ for i in range(n):
     if(i > avg):
       above += 1
     result = above / n_score_list[0]* 100
-  print(f"{result:.3f}%") // 소수 셋째자리까지 출력하는 방법
+  print(f"{result:.3f}%") # 소수 셋째자리까지 출력하는 방법
